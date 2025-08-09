@@ -1,4 +1,4 @@
-import react, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 /* TODO: Importar librerias de bootstrap*/
 import "bootstrap/dist/css/bootstrap.min.css";
 import Card from "react-bootstrap/Card";
